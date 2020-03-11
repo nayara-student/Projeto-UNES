@@ -1,2 +1,10 @@
-# Projeto-UNES
-Site fictício estruturado com tabelas para praticar a utilização deste elemento HTML. Estou ciente de que não é recomendado a utilização de tabelas para estruturar sites, este projeto trata-se de uma forma para colocar em prática o conhecimento adquirido acerca da tag mencionada.
+### Projeto-UNES
+
+#### Página principal
+![foto-pagina-principal](https://github.com/nayara-student/Projeto-UNES/blob/master/P%C3%A1gina%20principal.png)
+
+#### Quem somos
+![foto-quem-somos](https://github.com/nayara-student/Projeto-UNES/blob/master/Quem%20somos.png)
+
+#### Contato
+![foto-contato](https://github.com/nayara-student/Projeto-UNES/blob/master/Contato.png)
